@@ -142,38 +142,38 @@ python app.py
 
 启动界面如下：
 
-![](./Screenshot1.png)
+![](./screenshot/Screenshot1.png)
 
 输入账号密码登录后，主界面如下：
 
-![](./Screenshot2.png)
+![](./screenshot/Screenshot2.png)
 
 当此账号没有借阅图书和预约图书时，显示如下界面：
 
-![](./Screenshot3.png)
-![](./Screenshot4.png)
+![](./screenshot/Screenshot3.png)
+![](./screenshot/Screenshot4.png)
 
 可以到预约图书栏预约图书：
 
-![](./Screenshot5.png)
+![](./screenshot/Screenshot5.png)
 
 
 在搜索框中输入关键词搜索：
 
-![](./Screenshot6.png)
+![](./screenshot/Screenshot6.png)
 
 点击预约按钮进行预约：
 
-![](./Screenshot7.png)
+![](./screenshot/Screenshot7.png)
 
 点击借阅按钮进行借阅，当然实际借阅不可能这么简单，此处只是为了演示方便：
 
-![](./Screenshot8.png)
+![](./screenshot/Screenshot8.png)
 
 退出程序，重新登录即可看到目前的借阅信息和预约信息：
 
-![](./Screenshot9.png)
+![](./screenshot/Screenshot9.png)
 
-![](./Screenshot10.png)
+![](./screenshot/Screenshot10.png)
 
 并且可以取消预约和还书，当然实际还书不可能这么简单，此处只是为了演示方便。
